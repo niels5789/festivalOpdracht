@@ -1,5 +1,5 @@
 package festivalProject;
 
-public class LiveMuziek {
+public class LiveMuziek extends Acts {
 
 }

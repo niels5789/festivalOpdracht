@@ -1,5 +1,5 @@
 package festivalProject;
 
-public class Toneel {
+public class Toneel extends Acts{
 
 }

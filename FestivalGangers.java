@@ -1,5 +1,5 @@
 package festivalProject;
 
-public class FestivalGangers {
+public class FestivalGangers extends Aanwezigen{
 
 }
